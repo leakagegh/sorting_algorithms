@@ -1,11 +1,4 @@
 SORTING ALGORITHMS & BIG O
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ALX PROJECT
 =======
-ALX PROJECTTT
->>>>>>> 11e0d715202da7ed86e14f6e2bc5f13ff8fb434e
-=======
-ALX PROJECT
->>>>>>> aa72c0415ca8c949cb65dfd37cce94e858de6ef2
